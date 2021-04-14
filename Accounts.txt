@@ -1,7 +1,7 @@
-Accounts no               NAME
-1234                    RAHUL 
-1235                    MURARI
-1236                    AKASH
-1237                    MOHIT
-1238                    priyatam
-1239                    sarvesh
+Accounts no               NAME      account balance
+1234                    RAHUL           3456
+1235                    MURARI         4546
+1236                    AKASH           6776
+1237                    MOHIT           7687
+1238                    priyatam        6557
+1239                    sarvesh         7657
